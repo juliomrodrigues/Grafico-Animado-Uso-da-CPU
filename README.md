@@ -8,5 +8,5 @@ Criando um gráfico que mostra em tempo real o uso da CPU utilizando matplolib e
 - Psutil - Coletar dados da CPU
 
 ### Mais Gráficos:
-- Confira outro repositório onde exploro funcionalidades da biblioteca Matplotlib e seus gráficos ->
+- Confira outro repositório onde exploro funcionalidades da biblioteca Matplotlib e seus gráficos ->  
 [Gráficos e Recursos Matplotlib](https://github.com/juliomrodrigues/Matplolib-Graficos)
